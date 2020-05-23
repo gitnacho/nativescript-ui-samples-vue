@@ -29,7 +29,7 @@ permission.
 
 This is a license agreement and not an agreement for sale.
 
-1.  Definitions For purposes of this Agreement:
+1. Definitions For purposes of this Agreement:
 
 "Integrated Products" means Your proprietary software applications
 which: (i) are developed by Your Licensed Developers; (ii) add
@@ -42,7 +42,7 @@ or any components of the Programs.
 authorized to develop software specifically for You using the Software
 in accordance with this Agreement.
 
-2.  Software License
+1. Software License
 
 2.1 License Grant. Subject to the terms and conditions set forth in this
 Agreement, Progress hereby grants to Licensee and Licensee hereby
@@ -113,7 +113,7 @@ under subsection 2.3.1(iii).
 2.3.2.2 You must ensure that the Software is not distributed in any form
 that allows it to be reused by any application other than Your
 Integrated Product. If You have any questions regarding redistribution,
-please contact <support@telerik.com>. For use of the Software in
+please contact <support@telerik.com1. For use of the Software in
 design-time (i.e. within a development environment) Your Authorized
 End-Users need to obtain their own Developer Licenses from Progress.
 
@@ -155,7 +155,7 @@ Software that formed the basis for Your eligibility for the update. You
 may use the resulting updated Software only in accordance with the terms
 of this License.
 
-3.  License Limitations
+1. License Limitations
 
 3.1 You are not allowed to use, copy, modify, distribute, resell,
 transfer, rent, lease, or sublicense the Software and Your associated
@@ -174,12 +174,12 @@ attempt in any manner to reconstruct or discover any source code or
 underlying algorithms of the Programs that are provided to You in object
 code form only.
 
-4.  Delivery
+1. Delivery
 
 Progress shall make available for download to Licensee a master copy of
 the Software.
 
-5.  Term and Termination
+1. Term and Termination
 
 This Agreement and the License granted hereunder shall continue until
 terminated in accordance with this Section. Unless otherwise specified
@@ -200,13 +200,13 @@ instance(s) of Your Integrated Product(s) already installed, implemented
 and deployed for Your Authorized End-User(s), and (ii) any product and
 company logos provided by Progress in connection with this Agreement.
 
-6.  Product Discontinuance
+1. Product Discontinuance
 
 Progress reserves the right to discontinue the Software or any component
 of the Software, whether offered as a standalone product or solely as a
 component, at any time.
 
-7.  Intellectual Property
+1. Intellectual Property
 
 All title and ownership rights in and to the Software (including but not
 limited to any images, photographs, animations, video, audio, music, or
@@ -234,7 +234,7 @@ pursuant to the open source license applicable to the software and
 subject to the disclaimers and limitations on liability set forth in
 such license.
 
-8.  Collection and Use of Data
+1. Collection and Use of Data
 
 Progress uses tools to deliver certain Software features and extensions,
 identify trends and bugs, collect activation information, usage
@@ -246,7 +246,7 @@ Software, You authorize the collection, use and disclosure of this data
 for the purposes provided for in this Agreement and/or the Privacy
 Policy.
 
-9.  Limited Warranty
+1. Limited Warranty
 
 THE SOFTWARE IS LICENSED 'AS IS'. YOU BEAR THE RISK OF USING THE
 SOFTWARE. PROGRESS GIVES NO EXPRESS WARRANTIES, GUARANTEES OR
@@ -258,7 +258,7 @@ YOUR SOLE REMEDY FOR ANY FAILURE OR ANY FORM OF DAMAGE CAUSED BY THIS
 SOFTWARE IS A FULL REFUND OF THE LICENSE FEE WE HAVE RECEIVED FROM YOU,
 WHICH IN THE CASE OF A FREE OR NO COST LICENSE IS \$0.
 
-10. Limitation of Liability
+1. Limitation of Liability
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL
 PROGRESS BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR
@@ -279,7 +279,7 @@ CONTENT. ANY DATA INCLUDED WITH OR IN THE SOFTWARE IS FOR TESTING USE
 ONLY AND PROGRESS HEREBY DISCLAIMS ANY AND ALL LIABILITY ARISING
 THEREFROM.
 
-11. Indemnity
+1. Indemnity
 
 You agree to indemnify, hold harmless, and defend Progress and its
 resellers from and against any and all claims, lawsuits and proceedings
@@ -290,7 +290,7 @@ violation of this Agreement, (ii) the use or distribution of Your
 Integrated Product or (iii) Your modification of the Program's source
 code.
 
-12. Confidentiality
+1. Confidentiality
 
 Except as otherwise provided herein, each party expressly undertakes to
 retain in confidence all information and know-how transmitted or
@@ -322,7 +322,7 @@ years following termination of this Agreement, provided, however, that
 and (ii) trade secrets shall be maintained as such until they fall into
 the public domain.
 
-13. Governing Law
+1. Governing Law
 
 This License will be governed by the law of the Commonwealth of
 Massachusetts, U.S.A., without regard to the conflict of laws principles
@@ -337,7 +337,7 @@ of a party to enforce any provision of this Agreement shall not
 constitute or be construed as a waiver of such provision or of the right
 to enforce such provision.
 
-14. Entire Agreement
+1. Entire Agreement
 
 This Agreement shall constitute the entire agreement between the parties
 with respect to the subject matter hereof and supersedes all prior and
@@ -349,13 +349,13 @@ otherwise agreed to in writing by both parties. In cases where this
 license is being obtained through an approved third party, these terms
 shall supersede any third party license or purchase agreement.
 
-15. No Assignment
+1. No Assignment
 
 You may not assign, sublicense, sub-contract, or otherwise transfer this
 Agreement, or any rights or obligations under it, without Progress'
 prior written consent.
 
-16. Survival
+1. Survival
 
 Any provisions of the Agreement containing license restrictions,
 including but not limited to those related to the Program source code,
@@ -364,14 +364,14 @@ limitations of liability and/or indemnity terms, and any provision of
 the Agreement which, by its nature, is intended to survive shall remain
 in effect following any termination or expiration of the Agreement.
 
-17. Severability
+1. Severability
 
 If a particular provision of this Agreement is terminated or held by a
 court of competent jurisdiction to be invalid, illegal, or
 unenforceable, this Agreement shall remain in full force and effect as
 to the remaining provisions.
 
-18. Force Majeure
+1. Force Majeure
 
 Neither party shall be deemed in default of this Agreement if failure or
 delay in performance is caused by an act of God, fire, flood, severe
@@ -380,7 +380,7 @@ transportation, government ordinance, laws, regulations or restrictions,
 war or civil disorder, or any other cause beyond the reasonable control
 of such party.
 
-19. Export Classifications
+1. Export Classifications
 
 You expressly agree not to export or re-export Progress Software or Your
 Integrated Product to any country, person, entity or end user subject to
@@ -395,7 +395,7 @@ and represent that neither the U.S.A. Bureau of Industry and Security
 nor any other federal agency has suspended, revoked or denied Your
 export privileges.
 
-20. Commercial Software
+1. Commercial Software
 
 The Programs and the Documentation are \"Commercial Items\", as that
 term is defined at 48 C.F.R. §2.101, consisting of \"Commercial Computer
@@ -409,7 +409,7 @@ those rights as are granted to all other end users pursuant to the terms
 and conditions herein. Unpublished-rights reserved under the copyright
 laws of the United States.
 
-21. Reports and Audit Rights
+1. Reports and Audit Rights
 
 Licensee shall grant Progress audit rights against Licensee twice within
 a calendar three hundred and sixty-five (365) day period upon two weeks
