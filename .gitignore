@@ -3,7 +3,7 @@
 .DS_Store
 *.js
 *.js.map
-*.esm.json 
+*.esm.json
 *.log
 !*/karma.conf.js
 !*/app/tests/*.js
